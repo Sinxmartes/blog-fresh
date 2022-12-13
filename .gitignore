@@ -1,0 +1,22 @@
+# dotenv environment variables file
+.env
+.env.test
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# VSCode Files
+.vscode
+
+# Logs
+logs
+*.log
+
+#Posts
+posts/*.md
